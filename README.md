@@ -38,5 +38,5 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/haider-ali-3ba8a629a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: haider7152005@gmail.com
